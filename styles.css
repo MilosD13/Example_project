@@ -691,6 +691,11 @@ form .input-box span.details{
     padding-left: 10px;
   }
 
+  .main__content {
+    text-align: center;
+    margin-bottom: 5%;
+  }
+
   .navbar__menu {
     display: grid;
     grid-template-columns: auto;
@@ -871,7 +876,7 @@ form .input-box span.details{
   }
 
   .main__container{
-    padding: 5%
+    padding: 5%;
   }
 
   .main__img--card {
@@ -879,7 +884,7 @@ form .input-box span.details{
     height: auto;
   }
   .main__img--card2 {
-    padding: 5%;
+    padding: 0 5%;
     height: auto;
   }
 
